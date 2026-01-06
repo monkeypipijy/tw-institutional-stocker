@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.561134524682467,
     "three_inst_ratio_change_20": -1.5986114752213592
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2006",
+    "name": "東和鋼鐵",
+    "market": "TWSE",
+    "foreign_ratio": 14.6,
+    "trust_ratio": 0.8010301716859595,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.401030171685958,
+    "three_inst_ratio_change_20": -1.9343364783053207
   }
 ]

@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2044851971780375,
     "three_inst_ratio_change_20": -0.4731417309556285
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1736",
+    "name": "喬山",
+    "market": "TWSE",
+    "foreign_ratio": 4.26,
+    "trust_ratio": -0.04276608506867477,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.217233914931325,
+    "three_inst_ratio_change_20": -0.4403930132023408
   }
 ]

@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.14821999952047,
     "three_inst_ratio_change_20": -0.15195888925589252
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2002",
+    "name": "中鋼",
+    "market": "TWSE",
+    "foreign_ratio": 13.18,
+    "trust_ratio": -0.042485440457812516,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.137514559542188,
+    "three_inst_ratio_change_20": -0.16360491587188442
   }
 ]

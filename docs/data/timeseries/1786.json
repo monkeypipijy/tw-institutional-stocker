@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.473637537883863,
     "three_inst_ratio_change_20": -0.9363624621161373
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.003637537883862752,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5236375378838627,
+    "three_inst_ratio_change_20": -0.7563624621161371
   }
 ]

@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.326582507497767,
     "three_inst_ratio_change_20": -0.40339145343066285
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2356",
+    "name": "英業達",
+    "market": "TWSE",
+    "foreign_ratio": 12.79,
+    "trust_ratio": 0.33162811674298615,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.121628116742984,
+    "three_inst_ratio_change_20": -0.9309381966977011
   }
 ]
