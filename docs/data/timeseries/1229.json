@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.658237815885176,
     "three_inst_ratio_change_20": 0.020935870517627464
+  },
+  {
+    "date": "2026-01-06",
+    "code": "1229",
+    "name": "聯華",
+    "market": "TWSE",
+    "foreign_ratio": 9.6,
+    "trust_ratio": 0.018237815885175056,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.618237815885175,
+    "three_inst_ratio_change_20": -0.018730046442197334
   }
 ]

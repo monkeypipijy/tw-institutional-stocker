@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 34.88705927688394,
     "three_inst_ratio_change_20": -0.5893798744108949
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6669",
+    "name": "緯穎",
+    "market": "TWSE",
+    "foreign_ratio": 32.49,
+    "trust_ratio": 2.399878399140047,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 34.88987839914005,
+    "three_inst_ratio_change_20": -0.39239262573951805
   }
 ]

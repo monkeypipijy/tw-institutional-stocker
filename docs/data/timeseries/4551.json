@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.45652845575349,
     "three_inst_ratio_change_20": -0.14933325642705597
+  },
+  {
+    "date": "2026-01-06",
+    "code": "4551",
+    "name": "智伸科",
+    "market": "TWSE",
+    "foreign_ratio": 50.44,
+    "trust_ratio": -0.003471544246506442,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.43652845575349,
+    "three_inst_ratio_change_20": -0.14933325642706308
   }
 ]
