@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.50642965870404,
     "three_inst_ratio_change_20": -1.6733705976560174
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2449",
+    "name": "京元電子",
+    "market": "TWSE",
+    "foreign_ratio": 32.3,
+    "trust_ratio": 4.826791265765607,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.126791265765604,
+    "three_inst_ratio_change_20": -2.074056138390546
   }
 ]

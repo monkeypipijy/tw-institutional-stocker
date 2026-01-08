@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.42355121968838,
     "three_inst_ratio_change_20": -0.270153029620694
+  },
+  {
+    "date": "2026-01-07",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 39.44,
+    "trust_ratio": -0.0022112287855542544,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.43778877121444,
+    "three_inst_ratio_change_20": -0.24037466225431103
   }
 ]

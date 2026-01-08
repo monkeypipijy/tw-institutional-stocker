@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.42583709133135,
     "three_inst_ratio_change_20": 0.514393110256858
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1513",
+    "name": "中興電",
+    "market": "TWSE",
+    "foreign_ratio": 15.01,
+    "trust_ratio": 2.2382865987740335,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.248286598774033,
+    "three_inst_ratio_change_20": 0.27708967973098453
   }
 ]

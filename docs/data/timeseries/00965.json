@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.675867021741029,
     "three_inst_ratio_change_20": 1.0409194758340883
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00965",
+    "name": "元大航太防衛科技",
+    "market": "TWSE",
+    "foreign_ratio": 1.91,
+    "trust_ratio": 3.7219585968065405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.63195859680654,
+    "three_inst_ratio_change_20": 0.9892920736391018
   }
 ]

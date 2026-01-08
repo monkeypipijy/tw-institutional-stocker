@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.012608398955841,
     "three_inst_ratio_change_20": -1.884110010464779
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3605",
+    "name": "宏致",
+    "market": "TWSE",
+    "foreign_ratio": 12.57,
+    "trust_ratio": 0.3326083989558412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.902608398955842,
+    "three_inst_ratio_change_20": -1.67411001046478
   }
 ]

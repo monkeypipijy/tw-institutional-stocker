@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.451949488885376,
     "three_inst_ratio_change_20": 1.420275676716166
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2303",
+    "name": "聯電",
+    "market": "TWSE",
+    "foreign_ratio": 30.82,
+    "trust_ratio": -1.1072868034915788,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.71271319650842,
+    "three_inst_ratio_change_20": 1.5278000906616285
   }
 ]
