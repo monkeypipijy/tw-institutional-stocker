@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.653993712743619,
     "three_inst_ratio_change_20": 0.6848023249241884
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2637",
+    "name": "慧洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 12.12,
+    "trust_ratio": -0.16119348496936198,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.958806515030638,
+    "three_inst_ratio_change_20": 1.3698809331528619
   }
 ]

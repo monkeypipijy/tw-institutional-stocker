@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.82084977504783,
     "three_inst_ratio_change_20": 0.6023818853882048
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 22.54,
+    "trust_ratio": 3.2058846617779815,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.745884661777982,
+    "three_inst_ratio_change_20": 1.1491802841015861
   }
 ]

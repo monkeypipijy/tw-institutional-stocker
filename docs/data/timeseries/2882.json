@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.45661006618038,
     "three_inst_ratio_change_20": 0.1790197718108537
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2882",
+    "name": "國泰金",
+    "market": "TWSE",
+    "foreign_ratio": 19.66,
+    "trust_ratio": -1.1702669230453333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.489733076954668,
+    "three_inst_ratio_change_20": 0.23418461031400994
   }
 ]
