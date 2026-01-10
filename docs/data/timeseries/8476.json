@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9100138365541283,
     "three_inst_ratio_change_20": 0.05001383655412828
+  },
+  {
+    "date": "2026-01-09",
+    "code": "8476",
+    "name": "台境*",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 1.3836554128196685e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9200138365541283,
+    "three_inst_ratio_change_20": 0.060013836554128286
   }
 ]

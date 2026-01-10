@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.629402142050374,
     "three_inst_ratio_change_20": -0.3702701339529355
+  },
+  {
+    "date": "2026-01-09",
+    "code": "4763",
+    "name": "材料*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 46.97,
+    "trust_ratio": 0.7341498708174391,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 47.70414987081744,
+    "three_inst_ratio_change_20": -0.26682804239739255
   }
 ]

@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.880636059989193,
     "three_inst_ratio_change_20": 0.03971700735908712
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2881",
+    "name": "富邦金",
+    "market": "TWSE",
+    "foreign_ratio": 16.31,
+    "trust_ratio": 1.5287175406208406,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.838717540620838,
+    "three_inst_ratio_change_20": -0.011093587709932962
   }
 ]
