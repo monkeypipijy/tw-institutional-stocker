@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.727921531764398,
     "three_inst_ratio_change_20": -1.3113594103672108
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1802",
+    "name": "台玻",
+    "market": "TWSE",
+    "foreign_ratio": 4.06,
+    "trust_ratio": 0.6379215317643978,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.697921531764397,
+    "three_inst_ratio_change_20": -1.0863809835062606
   }
 ]

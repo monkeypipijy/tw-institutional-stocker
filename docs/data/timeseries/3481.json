@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.22429648075421,
     "three_inst_ratio_change_20": -0.9106858194270195
+  },
+  {
+    "date": "2026-01-12",
+    "code": "3481",
+    "name": "群創",
+    "market": "TWSE",
+    "foreign_ratio": 23.61,
+    "trust_ratio": 0.2023577127720659,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.812357712772066,
+    "three_inst_ratio_change_20": -1.3532879581805233
   }
 ]
