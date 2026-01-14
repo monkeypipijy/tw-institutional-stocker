@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.9150470687205585,
     "three_inst_ratio_change_20": -0.8523629722914325
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6412",
+    "name": "群電",
+    "market": "TWSE",
+    "foreign_ratio": 6.88,
+    "trust_ratio": -2.129204184256449,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.750795815743551,
+    "three_inst_ratio_change_20": -1.0066142252684402
   }
 ]

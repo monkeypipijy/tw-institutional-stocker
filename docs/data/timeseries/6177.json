@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.767448727422286,
     "three_inst_ratio_change_20": 1.5590129185418498
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6177",
+    "name": "達麗",
+    "market": "TWSE",
+    "foreign_ratio": 7.78,
+    "trust_ratio": 0.9474487274222851,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.727448727422285,
+    "three_inst_ratio_change_20": 1.553171684304921
   }
 ]
