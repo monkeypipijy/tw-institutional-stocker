@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8425889111828155,
     "three_inst_ratio_change_20": -3.149463307197588
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1442",
+    "name": "名軒",
+    "market": "TWSE",
+    "foreign_ratio": 12.26,
+    "trust_ratio": -8.457411088817185,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.8025889111828146,
+    "three_inst_ratio_change_20": -2.6872351935627297
   }
 ]

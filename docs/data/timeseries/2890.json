@@ -922,5 +922,16 @@
     "dealer_ratio": -0.010094934950685338,
     "three_inst_ratio": 27.594801839900498,
     "three_inst_ratio_change_20": -0.29462041268146066
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.67,
+    "trust_ratio": 0.9024949695513507,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.562400034600667,
+    "three_inst_ratio_change_20": -0.3618782142427577
   }
 ]
