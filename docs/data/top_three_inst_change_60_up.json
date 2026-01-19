@@ -1365,17 +1365,17 @@
     "change": 0.7345853464213847
   },
   {
-    "code": "8487",
-    "name": "愛爾達-創",
-    "market": "TWSE",
-    "three_inst_ratio": 0.73,
-    "change": 0.73
-  },
-  {
     "code": "3052",
     "name": "夆典",
     "market": "TWSE",
     "three_inst_ratio": 4.08,
+    "change": 0.73
+  },
+  {
+    "code": "8487",
+    "name": "愛爾達-創",
+    "market": "TWSE",
+    "three_inst_ratio": 0.73,
     "change": 0.73
   },
   {
