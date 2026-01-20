@@ -627,6 +627,17 @@
     "three_inst_ratio_change_20": -0.23
   },
   {
+    "date": "2025-12-26",
+    "code": "1443",
+    "name": "立益物流",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
     "date": "2025-12-29",
     "code": "1443",
     "name": "立益物流",
@@ -679,7 +690,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.01999999999999999
   },
   {
     "date": "2026-01-12",
@@ -690,7 +701,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
-    "three_inst_ratio_change_20": -0.01999999999999999
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-01-13",
@@ -735,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1443",
+    "name": "立益物流",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2,
+    "three_inst_ratio_change_20": -0.03
   }
 ]

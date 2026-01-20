@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.293897961979734,
     "three_inst_ratio_change_20": -0.08610203802026462
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 31.35,
+    "trust_ratio": 0.0038979619797368777,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.353897961979737,
+    "three_inst_ratio_change_20": -0.05610203802026348
   }
 ]

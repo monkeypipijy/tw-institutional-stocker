@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.76844186288952,
     "three_inst_ratio_change_20": 0.2097488836814918
+  },
+  {
+    "date": "2026-01-19",
+    "code": "4532",
+    "name": "瑞智",
+    "market": "TWSE",
+    "foreign_ratio": 17.87,
+    "trust_ratio": -0.049468493064514854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.820531506935485,
+    "three_inst_ratio_change_20": 0.2818385277274551
   }
 ]

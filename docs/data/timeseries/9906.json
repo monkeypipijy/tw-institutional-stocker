@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
     "three_inst_ratio_change_20": -0.18000000000000005
+  },
+  {
+    "date": "2026-01-19",
+    "code": "9906",
+    "name": "欣巴巴",
+    "market": "TWSE",
+    "foreign_ratio": 0.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.89,
+    "three_inst_ratio_change_20": -0.2300000000000001
   }
 ]

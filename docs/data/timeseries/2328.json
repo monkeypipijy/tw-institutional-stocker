@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.539968944621464,
     "three_inst_ratio_change_20": -0.32437403121953956
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2328",
+    "name": "廣宇",
+    "market": "TWSE",
+    "foreign_ratio": 9.01,
+    "trust_ratio": -0.11475687598353412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.895243124016465,
+    "three_inst_ratio_change_20": -0.05909985182453781
   }
 ]

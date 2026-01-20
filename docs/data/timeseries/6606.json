@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -2.99
   },
   {
+    "date": "2025-12-26",
+    "code": "6606",
+    "name": "建德工業",
+    "market": "TWSE",
+    "foreign_ratio": 2.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.93,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
     "date": "2025-12-29",
     "code": "6606",
     "name": "建德工業",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.94,
-    "three_inst_ratio_change_20": -0.050000000000000266
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-01-06",
@@ -888,7 +899,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.94,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-01-13",
@@ -899,7 +910,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.94,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2026-01-14",
@@ -921,7 +932,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.95,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000231
   },
   {
     "date": "2026-01-16",
@@ -933,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.95,
     "three_inst_ratio_change_20": 0.010000000000000231
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6606",
+    "name": "建德工業",
+    "market": "TWSE",
+    "foreign_ratio": 2.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.94,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

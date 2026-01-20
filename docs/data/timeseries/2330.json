@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 72.61489465946661,
     "three_inst_ratio_change_20": -0.2132526542320079
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2330",
+    "name": "台積電",
+    "market": "TWSE",
+    "foreign_ratio": 72.42,
+    "trust_ratio": 0.16079309581384355,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 72.58079309581385,
+    "three_inst_ratio_change_20": -0.23781703611909677
   }
 ]
